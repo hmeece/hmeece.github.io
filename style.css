@@ -1,0 +1,20 @@
+body {
+	background: rgb(115, 200, 96);
+	padding: 25px;
+	border: 25px solid black;
+	margin: 25px;
+}
+
+.bobby * {
+	margin: 0;
+}
+
+.mary * {
+	margin: 0;
+	text-align: center;
+
+}
+
+.stoked * {
+	margin: 0;
+}
